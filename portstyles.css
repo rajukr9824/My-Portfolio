@@ -126,16 +126,14 @@ footer {
 
 .list {
     max-width: 600px;
-    width: 30%;
+    width: 80%;
     height: 100%;
     border: 2px solid black;
-    padding: 26px;
+    padding: 10px;
     background-color: blanchedalmond;
-    margin: 15px auto;
+    margin: 10px auto;
     display: grid;
     border-radius: 30px;
-    font-size: larger;
-    width: 50%;
 }
 
 .contact {
@@ -146,4 +144,7 @@ footer {
     margin: 15px auto;
     width: 25%;
     border-radius: 10px;
+}
+h1{
+    margin-left: 20px;
 }
